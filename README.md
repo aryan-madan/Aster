@@ -1,27 +1,26 @@
-# Aster
+<div align="center">
+  <img src="./assets/logo.png" alt="Aster logo" width="160">
+  <h1>Aster</h1>
+  <p>A browser that feels crafted.</p>
+  <p><a href="https://aster.aryan.am">aster.aryan.am</a></p>
+</div>
 
-![Aster](./og.png)
+## Installation
 
-Aster is a browser for macOS, built with native WebKit and designed to feel calm, fast, and focused.
+Some browser extensions may not be compatible with Aster's WebKit engine. If you run into an extension that doesn't work, [please report it](mailto:hi@aryan.am).
 
-Browsers became too bloated and oversaturated that people forgot what they really need in a browser. Aster brings the best of both aesthetic and performance, with native WebKit and beautiful interactions.
+Download [Aster](https://github.com/aryan-madan/Aster/releases), then drag `Aster.app` into your **Applications** folder.
 
-[aster.aryan.am](https://aster.aryan.am) · Made with ❤️ by [Ary](https://aryan.am) · [https://github.com/aryan-madan/Aster.git](https://github.com/aryan-madan/Aster.git)
+If macOS blocks Aster when you open it, go to **System Settings → Privacy & Security** and choose **Open Anyway** in the Security section. You can also Control-click `Aster.app`, choose **Open**, and confirm.
 
-## Install
-
-Download [Aster 0.2.0](https://github.com/aryan-madan/Aster/releases/download/v0.2.0/Aster.zip), unzip it, and drag `Aster.app` into your **Applications** folder.
-
-This app is not signed or notarized with an Apple Developer ID, so macOS may block it on first launch. Only continue if you trust the person who provided the app. First try Control-clicking `Aster.app`, choosing **Open**, then confirming. If macOS still blocks it, remove its quarantine attribute in Terminal:
+If needed, remove the quarantine attribute in Terminal:
 
 ```sh
 xattr -dr com.apple.quarantine "/Applications/Aster.app"
 ```
 
-This removes quarantine metadata and bypasses Gatekeeper's first-open check; it does not check the app for malware. If you installed the app somewhere else, replace the path with its actual location. To inspect quarantine metadata, run:
+If you installed Aster somewhere else, replace the path with the app's actual location.
 
-```sh
-xattr -lr "/Applications/Aster.app"
-```
+<div align="center">Made with &lt;3 by Ary</div>
 
-Open Aster from Applications after using either first-open method above.
+![Banner](assets/og.png)
