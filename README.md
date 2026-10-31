@@ -21,6 +21,8 @@ xattr -dr com.apple.quarantine "/Applications/Aster.app"
 
 If you installed Aster somewhere else, replace the path with the app's actual location.
 
-<div align="center">Made with &lt;3 by Ary</div>
+<div align="center">Made with ❤️ by Ary</div>
+
+<br><br>
 
 ![Banner](assets/og.png)
