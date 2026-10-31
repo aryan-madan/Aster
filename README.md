@@ -10,7 +10,7 @@
 > [!NOTE]
 > Aster is in beta, so unexpected issues may occur. Please report them if they haven't already been reported. Some browser extensions may not be compatible with Aster's WebKit engine. If you run into a feature or an extension that doesn't work, [please report it](mailto:hi@aryan.am).
 
-Download [Aster](https://github.com/aryan-madan/Aster/releases), then drag `Aster.app` into your **Applications** folder.
+[Download Aster.zip](https://github.com/aryan-madan/Aster/releases), then drag `Aster.app` into your **Applications** folder.
 
 If macOS blocks Aster when you open it, go to **System Settings → Privacy & Security** and choose **Open Anyway** in the Security section. You can also Control-click `Aster.app`, choose **Open**, and confirm.
 
