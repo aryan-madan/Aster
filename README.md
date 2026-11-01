@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Aster logo" width="160">
   <h1>Aster</h1>
-  <p>A browser that feels crafted.</p>
+  <p>A browser crafted for you.</p>
   <p><a href="https://aster.aryan.am">aster.aryan.am</a></p>
 </div>
 
