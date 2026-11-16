@@ -8,7 +8,7 @@
 ## Installation
 
 > [!NOTE]
-> Aster is in beta, so unexpected issues may occur. Please report them if they haven't already been reported. Some browser extensions may not be compatible with Aster's WebKit engine. If you run into a feature or an extension that doesn't work, [please report it](mailto:hi@aryan.am).
+> Aster is in beta, so unexpected issues may occur. Please report them if they haven't already been reported. Some browser extensions may not be compatible with Aster's WebKit engine. If you run into a feature or an extension that doesn't work, [please report it](https://github.com/aryan-madan/Aster/issues).
 
 [Download Aster.zip](https://github.com/aryan-madan/Aster/releases), then drag `Aster.app` into your **Applications** folder.
 
